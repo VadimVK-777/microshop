@@ -3,6 +3,8 @@ from users.schemas import CreateUser, CreateUser
 from users import crud
 
 print("Hello World")
+print("Hello World")
+
 router = APIRouter(prefix="/users", tags=["Users"])
 
 
