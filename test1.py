@@ -12,7 +12,8 @@ from typing import Optional
 # say_hi("")
 # say_hi(None)
 
-
+print()
+print()
 from typing import Optional
 
 
